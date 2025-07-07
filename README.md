@@ -1,18 +1,17 @@
 ## Opa! Bem Vindo ao meu perfil!
 
-<!-- YOU FOUND ME!  -->
+<!-- INACREDITÁVEL QUE TU ACHOU ESSA MENSAGEM :) -->
 
 - 🤖 Atualmente trabalhando com python
 - 🔭 Estudando Java
 - 🏬 Desenvolvedor Front-end + DataBase
 - 👨‍💼 BugBounter
 - 👾 Pentester
-- 🙂 Pronouns: ele/dele
 - 💪🏻 Estudando construção de APIs
 
 Eae! como você está? Me chamo <a href="https://github.com/HeyTenebrisVenator">Arthur</a>, e venho me dedicando no meu desenvolvimento pessoal, principalmente profissionalmente. Estou aprendendo, na maioria do tempo, técnicas de invasão, ou também chamado de Pentest!
 
-Tenho 16 anos, mas a idade não vai me fazer parar 💪🏻
+Tenho 17 anos, e estou sempre em busca de novos desafios e habilidades novas
 
 Minha linguagem de programação favorita, sem a menor sombra de dúvidas, é o Python. Já que sua linguagem da alto nível faz com que o desenvolvimento com a mesma se torna algo mais simples para a criação de ferramentas visando testes de segurança.
 
@@ -27,7 +26,7 @@ Foi então que, depois de conversar com um amigo, ele citou o ramo de segurança
 
 Mas, enquanto estava assistindo vídeos no youtube, me deparei com um cara explicando alguns relatos sobre ataques hackers que aconteceram e como foram feitos na prática. Foi naquele vídeo que eu vi aquele *MALDITO* terminal piscando, e foi quando eu me apaixonei pela área
 
-Comecei, como qualquer iludido pelo sonho de invadir um banco após maratonar La casa de Papel, a abrir aquele terminal e a dar Ctrl + V em uns comandos aleatórios que eu via em um blog de alguém.
+Comecei, como qualquer iludido pelo sonho de invadir um banco após maratonar Mr Robot, a abrir aquele terminal e a dar Ctrl + V em uns comandos aleatórios que eu via em um blog de alguém.
 
 Mas, após muitas falhas, muitos 403 após exceder o rate limit do site, e após muitas teclas digitadas, eu aprendi que não tem como fazer algo sem de fato se aprofundar no assunto
 
