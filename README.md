@@ -32,6 +32,7 @@ Mas, após muitas falhas, muitos 403 após exceder o rate limit do site, e após
 
 E aqui estou eu, onde já estudei mais de 15 vulnerabilidades diferentes, aprendi a invadir redes Wi-Fi (Invadi a minha 😎), aprendi a fazer exploração dessas falhas, incluíndo a pós exploração, e ainda aprendendo a fazer engenharia social.
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/arthurjww.png" alt="Your Image Badge" />
 
 
 A maioria dos meus projetos são visando a minha área. Ou seja, a maioria dos projetos que eu faço de fato são usados durante minhas pesquisa, e estou disponibilizando para o público no github pois acredito que, juntos, podemos fazer a internet um lugar mais seguro para todos!
