@@ -1,38 +1,45 @@
-## Opa! Bem Vindo ao meu perfil!
+## 👋 Welcome to my GitHub Profile!
+🚀 About Me
+Hi there! I'm Arthur, a passionate learner and aspiring cybersecurity professional from Brazil 🇧🇷. I’m 17 years old and constantly looking for new challenges and skills to improve myself — especially in the field of offensive security.
 
-<!-- INACREDITÁVEL QUE TU ACHOU ESSA MENSAGEM :) -->
+🤖 Currently working with Python
 
-- 🤖 Atualmente trabalhando com python
-- 🔭 Estudando Java
-- 🏬 Desenvolvedor Front-end + DataBase
-- 👨‍💼 BugBounter
-- 👾 Pentester
-- 💪🏻 Estudando construção de APIs
+🔭 Studying Java
 
-Eae! como você está? Me chamo <a href="https://github.com/HeyTenebrisVenator">Arthur</a>, e venho me dedicando no meu desenvolvimento pessoal, principalmente profissionalmente. Estou aprendendo, na maioria do tempo, técnicas de invasão, ou também chamado de Pentest!
+🧑‍💻 Front-end Developer + Database Explorer
 
-Tenho 17 anos, e estou sempre em busca de novos desafios e habilidades novas
+👨‍💼 Bug Bounty Hunter
 
-Minha linguagem de programação favorita, sem a menor sombra de dúvidas, é o Python. Já que sua linguagem da alto nível faz com que o desenvolvimento com a mesma se torna algo mais simples para a criação de ferramentas visando testes de segurança.
+👾 Pentester (and Mr. Robot fan)
 
-## Minha carreira
-Iniciei minha carreira com 12 anos, relativamente cedo, quando comecei a fazer jogos em Java ☕
+🔧 Learning how to build and secure APIs
 
-Depois disso, mudei para a Unity, onde aprendi C#, e foi quando comecei a me interessar de fato em programação
 
-Fiquei nesse ramo por mais ou menos 2 anos, que foi quando eu de fato comecei a questionar o que eu queria fazer da vida 🤔
+## 🧠 My Journey So Far
 
-Foi então que, depois de conversar com um amigo, ele citou o ramo de segurança, onde, adminto que não dei muita bola de início...
+I began my programming journey when I was 12 years old, starting with Java and building simple games. Later, I moved to Unity and C#, where I truly fell in love with coding.
 
-Mas, enquanto estava assistindo vídeos no youtube, me deparei com um cara explicando alguns relatos sobre ataques hackers que aconteceram e como foram feitos na prática. Foi naquele vídeo que eu vi aquele *MALDITO* terminal piscando, e foi quando eu me apaixonei pela área
 
-Comecei, como qualquer iludido pelo sonho de invadir um banco após maratonar Mr Robot, a abrir aquele terminal e a dar Ctrl + V em uns comandos aleatórios que eu via em um blog de alguém.
+But one day, while watching YouTube, I stumbled upon a video breaking down real-world hacker attacks. I saw that blinking terminal, and that was it — I was hooked. What started as copying random commands into a terminal turned into a deep dive into penetration testing, ethical hacking, and vulnerability research.
 
-Mas, após muitas falhas, muitos 403 após exceder o rate limit do site, e após muitas teclas digitadas, eu aprendi que não tem como fazer algo sem de fato se aprofundar no assunto
 
-E aqui estou eu, onde já estudei mais de 15 vulnerabilidades diferentes, aprendi a invadir redes Wi-Fi (Invadi a minha 😎), aprendi a fazer exploração dessas falhas, incluíndo a pós exploração, e ainda aprendendo a fazer engenharia social.
+After countless mistakes, dozens of "403 Forbidden" errors, and lots of persistence, I learned that real hacking requires knowledge, dedication, and structure.
 
-A maioria dos meus projetos são visando a minha área. Ou seja, a maioria dos projetos que eu faço de fato são usados durante minhas pesquisa, e estou disponibilizando para o público no github pois acredito que, juntos, podemos fazer a internet um lugar mais seguro para todos!
+
+## 🧪 Hacking Experience
+Today, I’ve studied over 15 types of vulnerabilities, learned how to exploit and post-exploit them, and even practiced Wi-Fi hacking (on my own network, of course 😎). I'm also diving into social engineering and how it blends with technical attacks.
+
+
+Most of my GitHub projects are tools I actually use in my bug bounty workflow or for research. I believe in open-source because together we can build a safer internet for everyone.
+
+
+## 🐍 My Favorite Language
+Without a doubt, my favorite programming language is Python. Its high-level syntax makes it perfect for quickly developing tools focused on security testing and automation.
+
+
+## 🌍 Let’s Connect
+Feel free to check out my repositories. If you have feedback, ideas, or just want to chat about hacking, tools, or programming — my DMs are open!
+
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HeyTenebrisVenator&show_icons=true&theme=dark"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=HeyTenebrisVenator&show_icons=true&theme=dark"/>
